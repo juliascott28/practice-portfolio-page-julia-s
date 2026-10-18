@@ -1,0 +1,19 @@
+body {
+    background-color: lightyellow;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {
+    color: cornflowerblue;
+}
+h3 {
+    color: cornflowerblue;
+}
+p {
+  margin-right: 150px;
+  margin-left: 30px;
+}
+img {
+  margin-right: 150px;
+  margin-left: 30px;
+}
+
