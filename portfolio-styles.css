@@ -1,12 +1,7 @@
 body {
     background-color: lightyellow;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-h1 {
-    color: #8AC6FF;
-}
-h3 {
-    color: #8AC6FF;
+    color: #005CA3
 }
 p {
   margin-right: 150px;
