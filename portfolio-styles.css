@@ -1,14 +1,16 @@
 body {
     background-color: lightyellow;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: #005CA3
+    color: #005CA3;
 }
-p {
-  margin-right: 150px;
-  margin-left: 30px;
+div {
+    border: 2px solid black;
+    display: flex;
+    justify-content: flex-left;
 }
-img {
-  margin-right: 150px;
-  margin-left: 30px;
+.box {
+  height: 20px;
+  width: 20px;
 }
+
 
